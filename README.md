@@ -304,7 +304,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the DevFlow Team**
+**Made with ❤️ by Alain Kwishima**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevFlow-black?style=for-the-badge&logo=github)](https://github.com/yourusername/DevFlow)
 [![Website](https://img.shields.io/badge/Website-DevFlow-blue?style=for-the-badge&logo=vercel)](https://devflow.vercel.app)
